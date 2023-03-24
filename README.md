@@ -1,5 +1,5 @@
-PROJECT TEAM:       Giannelli Alessio
-                    Imbonati Lorenzo
+PROJECT TEAM:       Giannelli Alessio,
+                    Imbonati Lorenzo,
                     Valoti Davide
 
 
