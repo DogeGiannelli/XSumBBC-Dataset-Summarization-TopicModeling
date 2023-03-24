@@ -1,4 +1,3 @@
-
 PROJECT TEAM:       Giannelli Alessio
                     Imbonati Lorenzo
                     Valoti Davide
